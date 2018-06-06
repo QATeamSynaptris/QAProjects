@@ -24,5 +24,10 @@
 	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO"/>
 	<classpathentry kind="lib" path="D:/Rajasekaran Manoharan/Selenium/Jar file/Latest/ATUTestRecorder_2.1/ATUTestRecorder_2.1.jar"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
